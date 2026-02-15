@@ -4,6 +4,7 @@ A modern, mobile-responsive food ordering web application inspired by food deliv
 
 > ⚠️ This repository contains a **live demo only** (no public source code).  
 > The application is deployed on Vercel for demonstration purposes.
+> This has been created in a week, so expect bugs and UI issues.
 
 👉 Live Demo: https://foodapp-delivery-ruddy.vercel.app/
 
@@ -38,11 +39,17 @@ This project simulates a full event-based food delivery ecosystem with multiple 
 ## 📁 Project Architecture
 
 /src
+
 ├── main.tsx # App entry point
+
 ├── app/App.tsx # Main layout & routing logic
+
 ├── app/store.tsx # Global state management (Context API)
+
 ├── app/data.ts # Mock data (events, vendors, orders)
+
 ├── app/components/ # Reusable UI components
+
 ├── app/pages/ # Role-based views & dashboards
 
 
@@ -112,5 +119,14 @@ Key State:
 This project serves as a **portfolio demo** showcasing frontend architecture, UI/UX design, and system planning for marketplace-style applications.
 
 ---
+
+<img width="1838" height="1266" alt="image" src="https://github.com/user-attachments/assets/693cf83c-5063-4c15-a2cb-33f858466d8b" />
+<img width="1687" height="1270" alt="image" src="https://github.com/user-attachments/assets/8cc81138-8032-474c-9d53-109865b43fc7" />
+<img width="1466" height="1267" alt="image" src="https://github.com/user-attachments/assets/54e6381f-c933-4c64-b3ee-95ccccfad781" />
+<img width="1742" height="1265" alt="image" src="https://github.com/user-attachments/assets/344a28d8-a490-4d67-bbba-240c38ee9773" />
+
+
+
+
 
 Built for demonstration & portfolio purposes.
